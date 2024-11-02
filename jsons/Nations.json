@@ -1,0 +1,38 @@
+[
+{
+		"name": "OUNGA",
+		"leaderName": "Daria Igazi",
+		"adjective": ["OUNGA]"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "Daria Igazi, proud goddess of both thurths and lies, you were born to take this throne and leader with your fists, this is the moment of truth, defeat all the cruel monkeys that live on this world.",
+		"startIntroPart2": "",
+
+		"declaringWar": "Listen, i must dye my hair again, i will use your blood for it.",
+		"attacked": "And i thought you had a brain.",
+		"defeated": "Hahahahaha, you defeated me, but i will live in your nightmares",
+		"introduction": "Bow upon me and the OUNGA, mortal.",
+
+		"neutralHello": "Hi, what can i get you?",
+		"hateHello": "Huh.",
+
+		"tradeRequest": "Yes or no.",
+
+		"outerColor": [26, 23, 46],
+		"innerColor": [235, 64, 52],
+		"uniqueName": "Galaxy Destroyer",
+		"uniques": ["[+5]% to Flank Attack bonuses","[+70]% XP gained from combat","[+25]% to Flank Attack bonuses <during a Golden Age>"],
+		"cities": ["OUNGA",
+"Farmsteade",
+"Malvania",
+"Terria",
+"Aryan Parade",
+"Square UP",
+"Land of Daria",
+"Infernace",
+"Oven of Sins",
+"Delight"],
+        "spyNames": ["Mister Infernace"]
+    },
+]

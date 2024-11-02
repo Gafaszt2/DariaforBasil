@@ -1,0 +1,16 @@
+[
+{
+		"name": "Space Warrior",
+                "replaces": "Infantry",
+                "uniqueTo": "OUNGA",
+
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 90,
+		"cost": 325,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
+]

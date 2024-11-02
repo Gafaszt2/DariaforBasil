@@ -1,0 +1,14 @@
+[
+{
+		"name": "Galactic Reactor",
+                "uniqueTo": "OUNGA",
+                "replaces": "Arsenal",
+                "science": 3,
+		"cost": 300,
+		"cityStrength": 9,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Castle",
+		"requiredTech": "Metallurgy",
+		"uniques": ["Destroyed when the city is captured"]
+	},]

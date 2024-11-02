@@ -1,0 +1,41 @@
+
+game.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Galactic Reactor
+  rotate: false
+  xy: 4, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Daria Igazi
+  rotate: false
+  xy: 4, 220
+  size: 597, 597
+  orig: 597, 597
+  offset: 0, 0
+  index: -1
+NationIcons/OUNGA
+  rotate: false
+  xy: 609, 717
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Space Warrior
+  rotate: false
+  xy: 112, 116
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Space Warrior
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
